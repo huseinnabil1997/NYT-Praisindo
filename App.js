@@ -1,4 +1,3 @@
-// App.js
 import React, { useEffect, useState } from 'react';
 import { View, ActivityIndicator , Linking, StyleSheet, Text } from 'react-native';
 import axios from 'axios';
