@@ -1,4 +1,3 @@
-// src/components/ArticleList.js
 import React from 'react';
 import { View, Text, FlatList, TouchableOpacity, StyleSheet } from 'react-native';
 
